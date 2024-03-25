@@ -1,0 +1,1 @@
+Normal as well as pneumonia positive chest X-rays we collected from Kaggle. The dataset is clearly labeled. It has 3 folders, namely, Train, Test & Val. These folders have 2 folders in them, Normal and Pneumonia, used for training, testing and finally for Validation.
